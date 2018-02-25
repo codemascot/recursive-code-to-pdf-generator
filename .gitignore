@@ -1,0 +1,4 @@
+*.swp
+**/*.swp
+/ext
+/Zend
