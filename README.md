@@ -1,4 +1,4 @@
-# Recurrsive PDF From C Files Code
+# Recurrsive PDF From Code Files
 This script will create *PDF* recurrsively by going each directory. Right now
 this is only written for C/C++ languages, means it'll only find `*.h`, `*.c` and
 `*.cpp` files.
@@ -23,4 +23,4 @@ be `spl.pdf`.
 
 # Acknowledgement
 I borrowed the very early version of this script from a *StackOverflow* answer.
-Right now can't remember.
+Right now can't remember which answer I've borrowed it from.
